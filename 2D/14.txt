@@ -1,0 +1,6 @@
+Q4) Which of the following is a two-dimensional array?
+
+A. array anarray[20][20];
+B. int anarray[20][20];
+C. int array[20, 20];
+D. char array[20];

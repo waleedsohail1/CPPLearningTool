@@ -1,0 +1,6 @@
+10.Which of three sizes of floating point types should be used when extended 
+precision is required?
+a) float
+b) double
+c) long double
+d) extended float!

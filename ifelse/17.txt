@@ -1,0 +1,11 @@
+Q2. What is the error in the following code?
+     int value=62;
+     value=25;
+     if(value>=60)
+		cout<<"value";
+      else;
+		cout<<"value+23";
+(a) compilation error.
+(b) Runtime error.
+(c) syntax error
+(d) No error.

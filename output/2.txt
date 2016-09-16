@@ -1,0 +1,8 @@
+
+2. Pick out the correct objects about the instantiation of 
+output stream.
+
+a) cout
+b) cerr
+c) clog
+d) All of the mentioned

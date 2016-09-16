@@ -1,0 +1,5 @@
+9. Pick the odd one out.
+a) integer, character, boolean, floating
+b) enumeration, classes
+c) integer, enum, void
+d) arrays, pointer, classes!

@@ -1,0 +1,5 @@
+8. Which datatype is used to represent the absence of parameters?
+a) int
+b) short
+c) void
+d) float!

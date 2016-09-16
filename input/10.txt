@@ -1,0 +1,4 @@
+5. How would you delcare a double called add and initialize it to 5?
+    a) double add 5;
+    b) double add=5
+    c) double add=5;!

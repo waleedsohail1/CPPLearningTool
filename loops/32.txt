@@ -1,0 +1,9 @@
+7. Which of the following is most likely to use a result-controlled loop?
+
+a. Checking that each price in a list of items offered for sale 
+is less than $125.
+b. Asking the user at the end of a game if the user 
+wants to play again.
+c. Checking if a particular integer is even or odd.
+d. Trying various letter substitution combinations until a 
+message in a secret code can be read.

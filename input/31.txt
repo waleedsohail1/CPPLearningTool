@@ -1,0 +1,16 @@
+6. What would be the output of the following program (in 32-bit systems)?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        cout << sizeof(char);
+        cout << sizeof(int);
+        cout << sizeof(float);
+        return 0;
+    }
+
+a) 1 4 4
+b) 1 4 8
+c) 1 8 8
+d) none of the mentioned!

@@ -1,0 +1,15 @@
+Q8.What is the output?
+	int x=4;
+	int y=0;
+	int z=8;
+	int q=5;
+	if(y<=6 && z>4 || x++==6)
+		q++;
+	if(x!=4 || y>5 || z<=9)
+		q+=x++;
+	if(z<=2 || x>=5 && y--==0)
+		q*=x++;
+(a)25
+(b)50
+(c)51
+(d)78

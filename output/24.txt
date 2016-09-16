@@ -1,0 +1,11 @@
+Q9.What is the output of the following program?
+
+int r, x = 2;
+float y = 5;  
+r = y%x;
+cout<<r; 
+
+A. 1
+B. 0
+C. 2
+D. Compile error!

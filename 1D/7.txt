@@ -1,0 +1,9 @@
+
+2. What are the legal indexes for the array ar, given the 
+following declaration:
+int[] ar = {2, 4, 6, 8 }
+
+a. 0, 1, 2, 3
+b. 1, 2, 3, 4
+c. 2, 4, 6, 8
+d. 0, 2, 4. 6

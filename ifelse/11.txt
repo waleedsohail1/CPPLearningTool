@@ -1,0 +1,5 @@
+Q6. ______ is a keyword for C language.
+(a) Nested if
+(b) Switch
+(c) if
+(d) if-else!

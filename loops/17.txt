@@ -1,0 +1,7 @@
+
+Q2 : An uninitialized local variable contains:
+
+a. The value last stored in the memory location reserved for that variable.
+b. No value.
+c. A value of zero.
+d. A randomly assigned value.

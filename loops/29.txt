@@ -1,0 +1,7 @@
+4. What are the three types of loops that can be built using 
+the while statement and other statements?
+
+a. Counting loops, sentinel-controlled loops, result-controlled loops
+b. Increasing loops, decreasing loops, result-controlled loops
+c. if loops, while loops, counting loops
+d. top-driven loops, result-controlled loops, bottom feeder loops

@@ -1,0 +1,10 @@
+
+Q4. What will be the output of following code?
+ 
+int x=30;
+cout << x;
+
+[a] 30
+[b] garbage value.
+[c] x
+[d] None of above!

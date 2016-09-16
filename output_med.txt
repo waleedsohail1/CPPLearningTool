@@ -1,0 +1,103 @@
+Q1. What is the output of the following code?
+
+const int num;
+num=50;
+cout <<num;
+
+[A] 50
+[B] Garbage
+[C] 0
+[D] Compile Error!
+
+Q2. What is the operator used for cout?
+
+[A] << 
+[B] >>
+[C] None of above
+[D] All of above!
+
+Q3. What is the error in the following code?
+
+int x=45
+cout << x
+
+[A] compilation error.
+[B] Runtime error.
+[C] syntax error
+[D] No error.!
+
+Q4. What is the output of the following code?
+
+int var=262500;
+cout << var;
+
+[A] 262500.
+[B] 2625
+[C] garbage value
+[D] 0!
+
+Q5. What is the output of the following code?
+
+char  var=262500, var2;
+cout << var << " " << var2;
+
+[A] 2 garbage.
+[B] 262500 garbage
+[C] garbage value
+[D] 2 6!
+
+Q6. What is the output of following program?
+
+int i=5;
+while (i<10)
+cout << i <<endl;
+
+A. 5
+B. 10
+C. Print 5 
+D. Print 5 infinitely.!
+
+
+Q7. What is the output of following program?
+
+int i=5;
+while (i<10)
+{
+cout << i <<endl;
+i++
+}
+
+A. 5
+B. Print 5-10
+C. Print 5-9
+D. Print 5.!
+
+Q8. What will be the output of following code?
+
+for(int i=0;i<10;i++)
+	if(i%2)
+		cout << i << ',';
+
+A. 2,4,6,8,10
+B. 2,4,6,8
+C. 0,2,4,6,8,10
+D. 2,4,6,8!
+
+Q9.What is the output of the following program?
+
+int r, x = 2;
+float y = 5;  
+r = y%x;
+cout<<r; 
+
+A. 1
+B. 0
+C. 2
+D. Compile error!
+
+Q10. What is the operator used for cout?
+
+A. << 
+B. >>
+C. None of above
+D. All of above!

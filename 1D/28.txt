@@ -1,0 +1,5 @@
+Q3. Which statement would be used to declare a 10-element integer array c?
+a. array c = int[ 10 ];
+b. c = int[ 10 ];
+c. int array c[ 10 ];
+d. int c[ 10 ];

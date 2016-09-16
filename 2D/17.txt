@@ -1,0 +1,14 @@
+Q7) Output of the following code is ?
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	double array[20][10]={"445" };
+	cout<<array[10][10];
+}
+
+A. Hey i
+B. Love you
+C. Nothing
+D. Garbage

@@ -1,0 +1,9 @@
+Q8.What is the output?
+	int a=0,b=5;
+	if(!a || --b==0)
+		cout<<b;
+		cout<<endl;
+(a)8
+(b)7
+(c)5
+(d)syntax error

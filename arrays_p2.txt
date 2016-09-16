@@ -1,0 +1,45 @@
+
+		********** PART-B (INITIALIZATION) **********
+
+
+INITIALIZING ARRAYS:
+
+You can initialize C++ array elements either one by one or using a single 
+statement as follows:
+
+---------------------------------------------------
+double balance[5] = {1000.0, 2.0, 3.4, 17.0, 50.0};
+---------------------------------------------------
+
+To initialize one by one, we can use a for loop as follows:
+
+----------------------
+for (int i=0;i<5;i++)
+  cin >> balance[i];
+----------------------
+
+NOTE: The number of values between braces { } can not be larger than the
+number of elements that we declare for the array between square brackets [].
+
+
+If you omit the size of the array, an array just big enough to hold the 
+initialization is created. Therefore, if you write:
+
+--------------------------------------------------
+double balance[] = {1000.0, 2.0, 3.4, 17.0, 50.0};
+--------------------------------------------------
+
+You will create exactly the same array as you did in the previous example.
+
+
+If you want your array to be initialized by 0 then you can just
+initialize the first element by 0, the rest would automatically be initialized.
+The below statement will mark all the elements of balance array by 0.
+
+--------------------------------------------------
+double balance[5] = {0};
+--------------------------------------------------
+
+
+PRESS ENTER to go to the PART-C........
+

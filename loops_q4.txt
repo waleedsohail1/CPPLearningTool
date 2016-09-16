@@ -1,0 +1,7 @@
+
+4. What loop required curly braces?
+
+a) for
+b) do
+c) while
+d) all

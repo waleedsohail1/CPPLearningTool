@@ -1,0 +1,10 @@
+Q10.What is the output of the following code.
+     int score=62;
+     if(score>=60)
+		cout<<"D";
+      else;
+		cout<<" F ";
+(a) D
+(b) F
+(c) DF
+(d) error!

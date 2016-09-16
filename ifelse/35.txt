@@ -1,0 +1,5 @@
+Q10._______ is an alternative of if-else statement
+(a) conditional operator
+(b) if-statement
+(c) nested if
+(d) switch

@@ -1,0 +1,13 @@
+7. Examine the following code:
+    int count = 0;                                  
+    while ( count <= 6 )  
+    {
+      count = count + 2; 
+    }
+	
+
+What does this code print on the monitor?
+a. 1 2 3 4 5 6
+b. 0 2 4 6 8
+c. 0 2 4
+d. Error

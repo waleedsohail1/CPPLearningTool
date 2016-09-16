@@ -1,0 +1,8 @@
+
+4. Which of the following correctly accesses the seventh element stored in 
+foo, an array with 100 elements?
+
+a. foo[6];
+b. foo[7];
+c. foo(7);
+d. foo;

@@ -1,0 +1,5 @@
+Q1. ________ is the simplest form of decision making.
+(a) Nested if
+(b) Switch
+(c) if
+(d) if-else!

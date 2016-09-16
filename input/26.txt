@@ -1,0 +1,15 @@
+1: Find the error in the following code.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+unsigned int val = -5;
+cout << val << endl;
+return 0;
+}
+
+a) #include<iostream>
+b) int main()
+c) unsigned int val = -5;
+d) cout << val << endl;!

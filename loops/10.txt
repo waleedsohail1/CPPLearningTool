@@ -1,0 +1,6 @@
+5.  The statement  i++;  is equivalent to
+
+      [a] i = i + i;
+      [b] i = i + 1;
+      [c] i = i - 1;
+      [d] i --;

@@ -1,0 +1,18 @@
+	
+	              **********************************
+		      ********** QUIZ ARENA ************
+		      **********************************
+
+
+	     /*	
+		Choose any category and see your score at the end.
+		Each category has 10 questions. 
+							           */
+
+
+			1. Easy
+			2. Medium
+			3. Hard
+
+		Choose your desired category?
+		

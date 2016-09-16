@@ -1,0 +1,8 @@
+Q4. What three parts of a counting loop must be coordinated in 
+order for the loop to work properly?
+
+a. initializing the counter, testing the counter, changing the counter
+b. initializing the condition, changing the condition, 
+terminating the loop
+c. the while, the assignment, and the loop body
+d. the while statement, the if statement, and sequential execution.

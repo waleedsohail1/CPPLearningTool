@@ -1,0 +1,15 @@
+2. What is the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main ()
+    {
+        int i;
+        cout << "Please enter an integer value: ";
+        cin >> i + 4;
+        return 0;
+    }
+
+a) 73
+b) your value + 4
+c) Error!

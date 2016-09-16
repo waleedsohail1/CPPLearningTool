@@ -1,0 +1,37 @@
+
+		********** PART-A (DESC. + DECLARATION) **********
+
+
+Single-Dimensional Arrays:
+
+C++ provides a data structure, the array, which stores a fixed-size 
+sequential collection of elements of the same type. An array is used to
+store a collection of data, but it is often more useful to think of 
+an array as a collection of variables of the same type. All arrays consist 
+of contiguous memory locations. The lowest address corresponds to the first
+element and the highest address to the last element.
+
+
+DECLARATION:
+
+To declare an array in C++, the programmer specifies the type of the 
+elements and the number of elements required by an array.
+
+
+Syntax :
+-------------------------------
+ type arrayName [ arraySize ]; 
+-------------------------------
+
+This is called a single-dimension array. The arraySize must be an integer
+constant greater than zero and type can be any valid C++ data type. 
+
+For example, to declare a 10-element array called balance of type double,
+use this statement:
+
+double balance[10];
+
+
+
+PRESS ENTER to go to the PART-B........
+

@@ -1,0 +1,7 @@
+
+1. Which header file is used with output operations of in C++?
+
+a) stdio.h
+b) cstdio
+c) iostream
+d) None of the mentioned

@@ -1,0 +1,20 @@
+6. What is the output of the following code??
+
+#include<iostream>
+using namespace std;
+int main()
+
+{
+
+int fun[2][3]={{1,2,3},{4,5,6}};
+int i=0 , j=0;
+fun[i][j]=fun[j][i];
+
+ cout<<fun[i][j]<<fun[j+1][i+1];
+
+}
+
+(A) 15
+(B) 10
+(C) 20
+(D) 25 

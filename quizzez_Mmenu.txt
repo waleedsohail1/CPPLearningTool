@@ -1,0 +1,23 @@
+	
+	              **********************************
+		      ********** QUIZ ARENA ************
+		      **********************************
+
+            -------------------------------------------------------------
+	     /*	
+		FSQ : Each time, all the quizzes are opened up in the
+		same pattern.
+
+		RGQ : To increase diffculty, each time a different
+		pattern evolves for quizzes.
+								     */
+	    -------------------------------------------------------------
+
+
+			1. Fixed Sequence Quizzes (FSQ)
+			2. Randomly Generated Quizzes (RGQ)
+			3. Go back to previous Menu
+
+
+		Choose your desired pattern?
+		

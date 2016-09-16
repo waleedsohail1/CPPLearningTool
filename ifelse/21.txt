@@ -1,0 +1,20 @@
+Q6. What is the output.
+
+	int a=40,b=20;
+        if(a>b)
+        {
+ 		cout<<"a is greater";
+ 	}
+ 	else if(a<b) 
+	{
+  		cout<<"a is small";
+        }
+        else 
+	{
+  		cout<<"Both are equal ";
+  	}
+
+(a)a is greater
+(b)a is small
+(c)both are equal
+(d)error

@@ -1,0 +1,55 @@
+	
+	       	********** PART-D (TYPES) **********
+
+
+do while LOOP:
+
+Unlike for and while loops, which test the loop condition at the top of 
+the loop, the do...while loop in C programming language checks its 
+condition at the bottom of the loop.
+
+Syntax:
+	do
+	{
+ 	  statement(s);
+
+	}while( condition );
+
+Execution Process:
+
+Notice that the conditional expression appears at the end of the loop, 
+so the statement(s) in the loop execute once before the condition is tested.
+If the condition is true, the flow of control jumps back up to do, and the 
+statement(s) in the loop execute again. This process repeats until the given 
+condition becomes false.
+
+
+EXAMPLE PROGRAM:
+------------------------------------------
+Example:
+#include <iostream>
+using namespace std;
+int main ()
+{
+   /* local variable definition */
+   int a = 10;
+
+   /* do loop execution */
+   do
+   {
+       cout << a << ", ";
+       a = a + 1;
+   }while( a < 20 );
+ 
+   return 0;
+}
+-------------------------------------------
+
+OUTPUT:
+
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+
+
+
+PRESS ENTER to go to the PART-E........
+

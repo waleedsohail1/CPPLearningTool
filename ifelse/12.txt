@@ -1,0 +1,11 @@
+Q7. What will be the output of following code?
+    int x=4,y=6;
+    if(x/2==0)
+	cout<<y;
+    else
+	cout<<x;
+
+(a) x
+(b) y
+(c) 4
+(d) 6!

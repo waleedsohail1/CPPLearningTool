@@ -1,0 +1,122 @@
+            $=============$ Quiz #2(Medium) $=============$
+
+
+Q1.What is the output of the following code.
+	int a=10,b=3,c=-1;
+	if((a+b)<15 && (c<b-3))
+		cout<<c;
+	else
+		cout<<a;
+(a)a
+(b)b
+(c)c
+(d)none@
+
+Q2. What is the error in the following code?
+     int value=62;
+     value=25;
+     if(value>=60)
+		cout<<"value";
+      else;
+		cout<<"value+23";
+(a) compilation error.
+(b) Runtime error.
+(c) syntax error
+(d) No error.@
+
+Q3.What is the output of the code?
+	int a=10,b=9;
+	const int c=4;
+	if(a>10)
+		cout<<a+b+c;
+	else if(a>b)
+		cout<<a+b-c;
+(a) 23
+(b) 19
+(c) 24
+(d) 15@
+
+Q4.What is the output?
+	int x=1,y=9;
+	if((x>=3) || (y<11 && x+y<15))
+		cout<<"Hello";
+	else
+		cout<<"World";
+(a)World
+(b)Hello
+(c)Syntax error
+(d)none@
+
+Q5.What is the value of x.
+	int a=52;
+	if(a!=50)
+	    x=1;
+	else
+	    x=2;
+(a) 1
+(b) 2
+(c) 52
+(d) None@
+
+Q6. What is the output.
+
+	int a=40,b=20;
+        if(a>b)
+        {
+ 		cout<<"a is greater";
+ 	}
+ 	else if(a<b) 
+	{
+  		cout<<"a is small";
+        }
+        else 
+	{
+  		cout<<"Both are equal ";
+  	}
+
+(a)a is greater
+(b)a is small
+(c)both are equal
+(d)error@
+
+Q7.What is the output of the following code?
+
+int num1=2,num2=3,num3=4;
+	if(num1==num2)
+		if(num1==num3)
+			cout<<"Numbers are equal ";
+		else
+			cout<<"They are different ";
+	else
+		cout<<"The numbers are different ";
+
+(a)Numbers are equal
+(b)The numbers are different
+(c)They are different
+(d)none@
+
+Q8.What is the output?
+	int a=0,b=5;
+	if(!a || --b==0)
+		cout<<b;
+		cout<<endl;
+(a)8
+(b)7
+(c)5
+(d)syntax error@
+
+Q9.__________ can check the range of values.
+(a)switch
+(b)while 
+(c)nested if
+(d)else@
+
+Q10.what is the output of the code.
+	if(0==0 || 1==1 || 2==2)
+	cout<<"Ok";
+	else
+	cout<<"No";
+(a)Ok
+(b)No
+(c)OkNo
+(d)No output@

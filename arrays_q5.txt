@@ -1,0 +1,8 @@
+
+5. Which of the following gives the value of the last element
+in array foo, an array with 100 elements?
+
+a. foo[100];
+b. foo[98+1];
+c. foo[LAST];
+d. Cannot be determined

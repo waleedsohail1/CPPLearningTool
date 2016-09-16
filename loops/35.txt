@@ -1,0 +1,9 @@
+10. A colony of rabbits doubles its population every 28 days. 
+The population starts out at 2 and increases until it reaches 100,000. 
+Say that a section of code simulated this process. 
+Which of the following while statements is most likely to be used?
+
+a. while ( population = 10000 )
+b. while ( population < 100000 )
+c. while ( population != 100000 )
+d. while ( population < 1.0E+6 )

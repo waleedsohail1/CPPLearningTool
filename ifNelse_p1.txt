@@ -1,0 +1,31 @@
+		********** PART-A (DESCRIPTION) **********
+
+
+Description:
+The ability to control the flow of your program, letting it make decisions 
+on what code to execute, is valuable to the programmer. The if statement 
+allows you to control if a program enters a section of code or not based 
+on whether a given condition is true or false.
+
+Here are the relational operators, as they are known, along with examples:
+>     greater than              5 > 4 is TRUE
+<     less than                 4 < 5 is TRUE
+>=    greater than or equal     4 >= 4 is TRUE
+<=    less than or equal        3 <= 4 is TRUE
+==    equal to                  5 == 5 is TRUE
+!=    not equal to              5 != 4 is TRUE
+
+The if STATEMENT :-
+
+The structure of an if statement is as follows:
+
+if ( TRUE )
+  Execute the next statement
+
+Here is a simple example that shows the syntax:
+
+if ( 5 < 10 )
+  cout<<"Five is now less than ten, that's a big surprise";
+
+PRESS ENTER to go to the PART-B........
+

@@ -1,0 +1,121 @@
+1. What is the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        cout << "First input: ";
+        cin.get();
+        cout << "Clearing cin.\n";
+        cin.clear();
+        cout << "All done.\n";
+    }
+
+a) First input
+b) Clearing cin
+c) Error
+d) None of the mentioned!
+
+2. What is the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main( )
+    {
+        char line[100];
+        cin.getline( line, 100, 't' );
+        cout << line;
+        return 0;
+    }
+
+a) 100
+b) t
+c) It will print what we give.
+d) None of the mentioned!
+
+
+3. How many parameters are there in getline function?
+a) 1
+b) 2
+c) 3
+d) 4!
+
+4. Which type is best suited to represent the logical values?
+a) integer
+b) boolean
+c) character
+d) all of the mentioned!
+
+5. Identify the user-defined types from the following?
+a) enumeration
+b) classes
+c) both a and b
+d) int!
+
+6. Which of the following statements are true?
+   
+ int f(float)
+
+a) f is a function taking an argument of type int and retruning a 
+floating point number
+b) f is a function taking an argument of type float and returning a integer.
+c) f is a function of type float
+d) none of the mentioned!
+
+7. The value 132.54 can represented using which data type?
+
+a) double
+b) void
+c) int
+d) bool!
+
+8. When a language has the capability to produce new data type mean, 
+it can be called as
+a) overloaded
+b) extensible
+c) encapsulated
+d) reprehensible!
+
+9. Pick the odd one out.
+a) integer, character, boolean, floating
+b) enumeration, classes
+c) integer, enum, void
+d) arrays, pointer, classes!
+
+10. What is the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main( )
+    {
+        char line[100];
+        cin.getline( line, 100, 't' );
+        cout << line;
+        return 0;
+    }
+
+a) 100
+b) t
+c) It will print what we give.
+d) None of the mentioned!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

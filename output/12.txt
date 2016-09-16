@@ -1,0 +1,9 @@
+Q7. What is the output of the following code?
+
+int var=262144;
+cout << var;
+
+[a] 262144.
+[b] 2621
+[c] garbage value
+[d] 0!

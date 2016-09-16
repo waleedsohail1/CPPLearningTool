@@ -1,0 +1,11 @@
+Q3. What will be the output of following code?
+    int x=8;
+    if(x%2==0);
+	cout<<"even";
+    else
+	cout<<"odd";
+
+(a) odd
+(b) odd
+(c) 8
+(d) error!

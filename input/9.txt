@@ -1,0 +1,4 @@
+4. How would you declare an integer called sum and initialize it to 10?
+    a) int sum 10;
+    b) int sum=10;
+    c) double sum=10;!

@@ -1,0 +1,6 @@
+
+4. Which type is best suited to represent the logical values?
+a) integer
+b) boolean
+c) character
+d) all of the mentioned!

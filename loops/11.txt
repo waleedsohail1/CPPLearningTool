@@ -1,0 +1,8 @@
+
+6.  Which looping process is best used when the number of iterations is 
+known?
+
+      [a] for
+      [b] while
+      [c] do-while
+      [d] all looping processes require that the iterations be known

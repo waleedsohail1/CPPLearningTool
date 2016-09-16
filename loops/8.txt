@@ -1,0 +1,6 @@
+3.  A continue statement causes execution to skip to
+
+      [a] the return 0; statement
+      [b] the first statement after the loop
+      [c] the statement following the continue statement
+      [d] the next iteration of the loop

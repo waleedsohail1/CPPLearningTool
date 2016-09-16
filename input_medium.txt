@@ -1,0 +1,116 @@
+1: Find the error in the following code.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+unsigned int val = -5;
+cout << val << endl;
+return 0;
+}
+
+a) #include<iostream>
+b) int main()
+c) unsigned int val = -5;
+d) cout << val << endl;!
+
+2: What would the output be from the following code.
+float valOne = 3.756;
+int valTwo
+valTwo = valOne;
+cout << valTwo << endl
+
+a)3.756
+b)4
+c)3
+d)error!
+
+3: What would the output be from the following code.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int val = 2147483647;
+val++;
+cout << val << endl;
+return 0;
+}
+
+a)2147483648
+b)-2147483648
+c)Compilation error
+d)128!
+
+4: What would the output be from the following code
+
+int num = 19;
+float val = num/12;
+cout << val << endl;
+
+a)1
+b)1.5833
+c)19/12
+d)2!
+
+5. It is guaranteed that a ____ has atleast 8bits and a ____ has atleast 16 bits.
+a) int, float
+b) char, int
+c) bool, char
+d) char, short!
+
+6. What would be the output of the following program (in 32-bit systems)?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        cout << sizeof(char);
+        cout << sizeof(int);
+        cout << sizeof(float);
+        return 0;
+    }
+
+a) 1 4 4
+b) 1 4 8
+c) 1 8 8
+d) none of the mentioned!
+
+7. What is the value of the following 8-bit integer after all statements are executed?
+
+int x = 1;
+x = x << 7;
+x = x >> 7;
+a) 1
+b) -1
+c) 127
+d) Implementation defined!
+
+8. What will be the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        int a = 8;
+        cout << "ANDing integer 'a' with 'true' :" << a && true;
+        return 0;
+    }
+
+a) ANDing integer ‘a’ with ‘true’ :8
+b) ANDing integer ‘a’ with ‘true’ :0
+c) ANDing integer ‘a’ with ‘true’ :1
+d) None of the mentioned!
+
+9.Which is used to indicate single precision value?
+a) F or f
+b) L or l
+c) either a or b
+d) neither a or b!
+
+10.Which of three sizes of floating point types should be used when extended precision is required?
+a) float
+b) double
+c) long double
+d) extended float!
+

@@ -1,0 +1,16 @@
+3: What would the output be from the following code.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int val = 2147483647;
+val++;
+cout << val << endl;
+return 0;
+}
+
+a)2147483648
+b)-2147483648
+c)Compilation error
+d)128!

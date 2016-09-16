@@ -1,0 +1,7 @@
+2.  Which looping process checks the test condition at the 
+end of the loop?
+
+      [a] for
+      [b] while
+      [c] do-while
+      [d] no looping process checks the test condition at the end

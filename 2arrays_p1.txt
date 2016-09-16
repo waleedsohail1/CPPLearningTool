@@ -1,0 +1,43 @@
+
+		********** PART-A (DESC. + DECLARATION) **********
+
+
+Two-Dimensional Arrays:
+
+The simplest form of the multidimensional array is the two-dimensional array. 
+A two-dimensional array is, in essence, a list of one-dimensional arrays. 
+
+
+DECLARATION:-
+
+To declare a two-dimensional integer array of size x,y, you would write 
+something as below.
+
+Syntax :
+---------------------------
+type arrayName [x][y];
+---------------------------
+
+
+This is called a two-dimensional array. Where type can be any valid C++ 
+data type and arrayName will be a valid C++ identifier.A two-dimensional 
+array can be think as a table, which will have x number of rows and y 
+number of columns. A 2-dimensional array "a", which contains three rows 
+and four columns can be shown as below:
+
+	Col 0	   Col 1     Col 2     Col 3
+	-------------------------------------
+Row 0   a[0][0] | a[0][1] | a[0][1] | a[0][2]
+	-------------------------------------
+Row 1	a[1][0]	| a[1][1] | a[1][1] | a[1][2]
+	-------------------------------------
+Row 2	a[2][0]	| a[2][1] | a[2][1] | a[2][2]
+	-------------------------------------
+
+Thus, every element in array a is identified by an element name of the 
+form a[i][j], where a is the name of the array, and i and j are the 
+subscripts that uniquely identify each element in "a".
+
+
+PRESS ENTER to go to the PART-B........
+

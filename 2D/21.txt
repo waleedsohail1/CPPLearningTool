@@ -1,0 +1,7 @@
+1. Which
+of the following is NOT correct 1D array declaration?
+
+(A)int a[ ] = {1 , 2 , 3} ;
+(B)int a[5] = {1 , 2 , 3} ;
+(C)int a[5] = {0} ;
+(D)int a[3] = {1 , 2 , 3,4,5};

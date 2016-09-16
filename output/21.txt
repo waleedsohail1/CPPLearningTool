@@ -1,0 +1,10 @@
+Q6. What is the output of following program?
+
+int i=5;
+while (i<10)
+cout << i <<endl;
+
+A. 5
+B. 10
+C. Print 5 
+D. Print 5 infinitely.!

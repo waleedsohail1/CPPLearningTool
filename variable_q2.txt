@@ -1,0 +1,7 @@
+
+2.  A character variable may contain up to seven letters.
+
+[a] True
+[b] False
+[c] Depends on program
+[d] Character Data type is invalid

@@ -1,0 +1,5 @@
+Q10. Which of the following correctly declares&initializes annarray?
+a. int anarray[10] = {0};
+b. int anarray = {};
+c. anarray{10} = {};
+d. array anarray[10];

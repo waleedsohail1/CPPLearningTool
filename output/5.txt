@@ -1,0 +1,8 @@
+
+5. Is it okay to not use the double quotes with string while
+displaying it through cout statement?
+
+a) Yes
+b) No
+c) May be
+d) All of the above

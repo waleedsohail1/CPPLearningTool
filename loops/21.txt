@@ -1,0 +1,7 @@
+Q6. What makes a loop a counting loop?
+
+a. A loop control variable is tested in the while statement, 
+and is changed each time the loop body executes,
+b. A counter is counted upwards by one until it hits a particular limit.
+c. A counter is counted downwards by one until it hits zero.
+d. No loop control variables are used.

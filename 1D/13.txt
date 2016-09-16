@@ -1,0 +1,17 @@
+8. What is the output of the following code fragment:
+int[] arr= new int[5];
+
+arr[0] = 7;
+arr[1] = 3;
+arr[2] = 4;
+arr[3] = 1;
+arr[4] = 9;
+
+int j = 3;
+
+cout<<zip[ j-1 ] ;
+
+a. 7
+b. 3
+c. 4
+d. 1

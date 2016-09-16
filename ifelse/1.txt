@@ -1,0 +1,10 @@
+		
+		********** PART-C (QUIZ) **********
+
+
+The relational operator for equal is:
+
+a) !=
+b) =
+c) +
+d) ==

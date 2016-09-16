@@ -1,0 +1,9 @@
+Q10.what is the output of the code.
+	if(0==0 || 1==1 || 2==2)
+	cout<<"Ok";
+	else
+	cout<<"No";
+(a)Ok
+(b)No
+(c)OkNo
+(d)No output

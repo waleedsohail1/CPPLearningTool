@@ -1,0 +1,7 @@
+
+3.  A variable is given a value through
+
+[a] osmosis
+[b] the cout statement
+[c] the <iomanip.h> header file
+[d] an assignment statement

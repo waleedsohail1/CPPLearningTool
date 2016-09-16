@@ -1,0 +1,76 @@
+
+1.  Each pass through a loop is called a/an
+      [a] enumeration
+      [b] iteration
+      [c] culmination
+      [d] pass through@
+ 
+2.  Which looping process checks the test condition at the 
+end of the loop?
+
+      [a] for
+      [b] while
+      [c] do-while
+      [d] no looping process checks the test condition at the end@
+
+3.  A continue statement causes execution to skip to
+
+      [a] the return 0; statement
+      [b] the first statement after the loop
+      [c] the statement following the continue statement
+      [d] the next iteration of the loop@
+
+4.  In a group of nested loops, which loop is executed the most 
+number of times?
+
+      [a] the outermost loop
+      [b] the innermost loop
+      [c] all loops are executed the same number of times
+      [d] cannot be determined without knowing the size 
+       of the loops@
+
+5.  The statement  i++;  is equivalent to
+
+      [a] i = i + i;
+      [b] i = i + 1;
+      [c] i = i - 1;
+      [d] i --; @
+
+6.  Which looping process is best used when the number of iterations is 
+known?
+
+      [a] for
+      [b] while
+      [c] do-while
+      [d] all looping processes require that the iterations be known@
+
+
+7.  What's wrong?  for (int k = 2, k <=12, k++)
+
+      [a] the increment should always be ++k
+      [b] the variable must always be the letter i when using a for loop
+      [c] there should be a semicolon at the end of the statement
+      [d] the commas should be semicolons@
+
+8.  What's wrong?  while( (i < 10) && (i > 24))
+
+       [a] the logical operator && cannot be used in a test condition
+      [b] the while loop is an exit-condition loop
+      [c] the test condition is always false
+      [d] the test condition is always true@
+
+9.  If there is more than one statement in the block of a for loop, 
+which of the following must be placed at the beginning and the ending 
+of the loop block?
+
+      [a] parentheses ( )
+      [b] braces { }
+      [c] brackets [ ]
+      [d] arrows < >@
+
+10.  What's wrong?  (x = 4 && y = 5) ? (a = 5) ; (b = 6);
+
+       [a] the question mark should be an equal sign
+      [b] the first semicolon should be a colon
+      [c] there are too many variables in the statement
+      [d] the conditional operator is only used with apstrings@

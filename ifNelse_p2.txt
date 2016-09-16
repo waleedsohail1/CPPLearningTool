@@ -1,0 +1,46 @@
+
+	            ********** PART-B (TYPES) **********
+
+Else :-
+
+The "else" statement effectively says that whatever code after it (whether a 
+single line or code between brackets) is executed if the if statement is FALSE. 
+
+Example:
+
+if ( TRUE ) 
+{
+  // Execute these statements if TRUE
+}
+else 
+{
+  // Execute these statements if FALSE
+}
+
+Else If:-
+
+Another use of else is when there are multiple conditional statements that may
+all evaluate to true, yet you want only one if statement's body to execute. 
+You can use an "else if" statement following an if statement and its body; 
+that way, if the first statement is true, the "else if" will be ignored, but
+if the if statement is false, it will then check the condition for the else 
+if statement. If the if statement was true the else statement will not be 
+checked. It is possible to use numerous else if statements to ensure that only 
+one block of code is executed.
+
+Example:
+
+if ( <condition> ) 
+{
+  // Execute these statements if <condition> is TRUE
+}
+else if ( <another condition> ) 
+{
+  // Execute these statements if <another condition> is TRUE and
+  // <condition> is FALSE
+}
+
+
+
+PRESS ENTER to go to the PART-C........
+

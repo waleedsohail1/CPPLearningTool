@@ -1,0 +1,9 @@
+Q5. What is the output of the following code?
+
+char  var=262500, var2;
+cout << var << " " << var2;
+
+[A] 2 garbage.
+[B] 262500 garbage
+[C] garbage value
+[D] 2 6!

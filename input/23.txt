@@ -1,0 +1,6 @@
+8. When a language has the capability to produce new data type mean, 
+it can be called as
+a) overloaded
+b) extensible
+c) encapsulated
+d) reprehensible!

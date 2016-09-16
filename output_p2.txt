@@ -1,0 +1,55 @@
+		********** PART-B (APPLICATIONS) **********
+
+
+APPLICATION- 1 :
+
+C++ uses a convenient abstraction called streams to perform input and output 
+The << operator can be used multiple times in a single statement. Take a look
+at an example:
+
+Program:
+
+	#include<iostream>
+	using namespace std;
+
+	int main()
+	{
+		cout << "Hello, " << "this is a test " << "string.";
+		return 0;
+	}
+
+
+OUTPUT : Hello, this is a test string.
+
+
+APPLICATION- 2:
+
+The cout operator does not put a line break at the end of the output. 
+So if you want to print two sentences you will have to use the new-line
+character ( \n ).
+
+Program :
+
+	#include<iostream>
+	using namespace std;
+
+	int main()
+	{
+		cout << "Sentence 1. \n";
+		cout << "Sentence 2. \n ";  
+		return 0;
+	}
+
+OUTPUT : 
+Sentence 1.
+Sentence 2.
+
+It is possible to use the endl manipulator instead of the new-line character.
+For example:
+
+        cout << "This is one sentence." << endl;
+	cout << "This is another." << endl;
+
+
+PRESS ENTER to go to the PART-C........
+

@@ -1,0 +1,12 @@
+2. Which of the following situation most likely does NOT 
+call for a counting loop?
+
+a. Adding up all the integers between zero and one hundred.
+
+b. Writing out a table of Fahrenheit and Celcius temperature 
+equivalents.
+
+c. Prompting the user of a program until the user responds 
+with correct information.
+
+d. Making the computer beep ten times.

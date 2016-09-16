@@ -1,0 +1,10 @@
+
+Q3. What is the error in the following code?
+
+int x=45
+cout << x
+
+[A] compilation error.
+[B] Runtime error.
+[C] syntax error
+[D] No error.!

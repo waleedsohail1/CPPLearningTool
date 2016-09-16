@@ -1,0 +1,9 @@
+9. When the operating system of a computer writes data to the hard disk, 
+the hard disk is often not ready and does not accept the data. 
+The operating system must repeatedly try to write the data until it 
+is accepted. What kind of loop is this?
+
+a. Sentinel-controlled.
+b. Counting loop.
+c. Disk-controlled.
+d. Result-controlled.

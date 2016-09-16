@@ -1,0 +1,4 @@
+9. What do double data types hold?
+a) two integers
+b) decimals
+c) one integer!

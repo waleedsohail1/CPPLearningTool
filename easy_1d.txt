@@ -1,0 +1,105 @@
+
+
+1. Which of the following declares an array of int named img?  
+a. int img;
+b. int[] img;
+c. new int img[];
+d. int img = int[];
+@
+
+2. What are the legal indexes for the array ar, given the following declaration:
+int[] ar = {2, 4, 6, 8 }
+
+a. 0, 1, 2, 3
+b. 1, 2, 3, 4
+c. 2, 4, 6, 8
+d. 0, 2, 4. 6
+@
+
+3. What is the output of the following code fragment:
+int[] ar = {2, 4, 6, 8 };
+cout<< ar[0] << " " <<ar[1] ;
+
+a. 2 6
+b. 8
+c. 2 4
+d. 6 8
+@
+
+4.In C, if you pass an array as an argument to a function, what actually 
+gets passed?
+
+a.	Value of elements in array
+b.	First element of the array
+c.	Base address of the array
+d.	Address of the last element of array
+@
+
+5.What is the index number of the last element of an array with 29 elements?
+a. 29
+b. 28
+c. 0
+d. Programmer-defined
+@
+
+6. What is the output of the following code fragment:
+int[] z = new int[9];
+
+z[0] = 7;
+z[1] = 3;
+z[2] = 4;
+
+cout<< z[0] <<z[1] << " " << z[5] ;
+
+a. 10 0
+b. 7 3 0
+c. The program is defective and will not compile.
+d. 7 3 4
+
+@
+
+7.What is used to input char arr ?
+a. cin.getline
+b.cout
+c.c.ignore
+d.none
+@
+
+8. What is the output of the following code fragment:
+int[] arr= new int[5];
+
+arr[0] = 7;
+arr[1] = 3;
+arr[2] = 4;
+arr[3] = 1;
+arr[4] = 9;
+
+int j = 3;
+
+cout<<zip[ j-1 ] ;
+
+a. 7
+b. 3
+c. 4
+d. 1
+@
+
+9. How many objects are present after the following code fragment has 
+executed?
+
+double[] ann = new double[ 7 ];
+double[] bob;
+
+bob = ann;
+
+a. 2
+b. 7
+c. 14
+d. 1
+@
+
+10. For which of the following applications is an array NOT suitable:  
+a. Holding the scores on twelve midterms exams of a class.
+b. Holding the name, social security number, age, and income of one individual.
+c. Holding the temperature readings taken every hour throughout a day.
+d. Holding the total sales a store made in each of twelve months.@

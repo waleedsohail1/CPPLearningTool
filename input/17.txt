@@ -1,0 +1,16 @@
+2. What is the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main( )
+    {
+        char line[100];
+        cin.getline( line, 100, 't' );
+        cout << line;
+        return 0;
+    }
+
+a) 100
+b) t
+c) It will print what we give.
+d) None of the mentioned!

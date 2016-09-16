@@ -1,0 +1,14 @@
+
+Q7. What is the output of following program?
+
+int i=5;
+while (i<10)
+{
+cout << i <<endl;
+i++
+}
+
+A. 5
+B. Print 5-10
+C. Print 5-9
+D. Print 5.!

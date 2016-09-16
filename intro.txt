@@ -1,0 +1,14 @@
+		
+		***************************************
+		********** PRATCICE QUESTIONS *********
+		***************************************
+
+	     *. Write your code below, after writing, press 
+		Shift+6 then Enter to compile your code.
+
+	     *. You have to evaluate yourself in these questions.
+
+	     *. After successful compiling, press Enter to 
+		compare output of your code to the correct one.
+
+--------------------------------------------------------------------------------

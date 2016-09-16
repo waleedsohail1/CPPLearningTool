@@ -1,0 +1,113 @@
+Q1.Which of the following statement is correct about the program given below?
+int x = 80; 
+int y = x;
+x++;
+cout << x << " " << y;
+return 0;
+
+
+A. 80 80.
+B. 81 80.
+C. 81 81.
+D. Compile time error.!
+
+Q2. Which of the following statement is correct about the program given below?
+
+int x = 10;
+int &y = x;
+x++;
+cout<< x << " " << y++;
+return 0; 
+
+A. 11 12.
+B. 12 11.
+C. 12 13.
+D. Compile time error.!
+
+
+Q3. What is the output of following program?
+
+int a = 10;
+int b = 20;
+int x;
+x = a;
+cout >> x;
+
+A. It will print 10.
+B. It will print 20.
+C. It will print x.
+D. Compilation Error.!
+
+Q4. What is the output of following program?
+
+for(int i= 0;i<10 ;i++)
+cout << i <<endl;
+
+A. 0
+B. 10
+C. Print 1-10
+D. Print 0-9!
+
+Q5. What is the error in following code?
+
+for(int i= 0;i<10 ;i++);
+cout >> i >>endl;
+
+A. Invalid statement terminator
+B. Invalid syntax of cout statement.
+C. Both
+D. None of Above!
+
+Q6. What is the output of the following code?
+for(int i= 0;i >10 ;i++)
+cout<< i <<endl;
+
+A. No output
+B. 10
+C. Print 1-10
+D. Print 0-9!
+
+Q7. What is the output of the following code?
+
+const int a = 5;   
+a++; 
+cout<<a; 
+
+A.5
+B.6
+C.Runtime error
+D.Compile error!
+
+Q8.What is the output of the following program?
+
+int r, x = 2;
+float y = 5;  
+r = y%x;
+cout<<r; 
+
+A. 1
+B. 0
+C. 2
+D. Compile error!
+
+Q9.What is the output of the following program?
+
+float r, x = 2,y = 5;  
+r = y%x;
+cout<<r; 
+
+A. 1
+B. 0
+C. 2
+D. Compile error!
+
+Q10. What is the output of the following program?
+
+float r, x = 2,y = 5;  
+r = y%x;
+cout>>r; 
+
+A. 1
+B. 0
+C. 2
+D. Compile error!

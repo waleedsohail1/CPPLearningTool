@@ -1,0 +1,18 @@
+8.What is the output of the following C++ code?
+
+#include<iostream>
+using namespace std;
+int main()
+
+{
+
+int ary[2][3]; 
+ary[ ][ ] = {{1, 2, 3}, {4, 5, 6}}; 
+cout<< ary[1] + [0]<<endl; 
+
+}
+
+(A) Compile time error
+(B)    4
+(C)    1
+(D)    2 

@@ -1,0 +1,7 @@
+
+2. The condition of an if statement is:
+
+a) true
+b) Both a & c
+c) false
+d) none of the above

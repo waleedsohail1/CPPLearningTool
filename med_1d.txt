@@ -1,0 +1,78 @@
+
+Q1. What are the side effects of declaring and initializing the
+array simultaneously?
+
+a. No effects
+b. Values are disturbed
+c. Not possible to declare
+d. Cannot be determined@
+
+Q2. An array is not:
+a. A consecutive group of memory locations.
+b. Subscripted by integers.
+c. Declared using braces, [].
+d. Made up of different data types.@
+
+Q3. Which statement would be used to declare a 10-element integer array c?
+a. array c = int[ 10 ];
+b. c = int[ 10 ];
+c. int array c[ 10 ];
+d. int c[ 10 ];@
+
+Q4. Referencing elements outside the array bounds:
+a. Can result in changes to the value of an unrelated variable.
+b. Is impossible because C++ checks to make sure it does not happen.
+c. Is a syntax error.
+d. Enlarges the size of the array.@
+ 
+Q5. Unless otherwise specified, entire arrays are passed __________ and 
+individual array elements are passed __________.
+a. By value, by reference.
+b. By reference, by value.
+c. By value, by value.
+d. By reference, by reference.@
+
+Q6. Which statement would be used to declare a 10-element integer array c?
+a. array c = int[ 10 ];
+b. c = int[ 10 ];
+c. int array c[ 10 ];
+d. int c[ 10 ];@
+ 
+Q7. What is the length of the following array: 
+byte[] data = { 12, 34, 9, 0, -62, 88 };
+a.   1
+b.   5
+c.   6
+d.   12@
+
+Q8. Which of the following gives the memory address of the first 
+element in array foo, an array with 100 elements?
+a. foo[0];
+b. foo;
+c. &foo;
+d. foo[1]@
+
+Q9. The following program segment is intended to find the index 
+of the first negative integer in arr [0] ... arr [ N-1], 
+where arr is an array of N integers.
+
+        int i = 0;
+	while (arr [i] >= 0)
+	{
+	    i++;
+	}
+	location = i ;
+
+	This segment will work as intended
+
+a. Always
+b. Never
+c. Whenever arr contains at least one negative integer
+d. Whenever arr contains at least one nonnegative integer@
+
+Q10. Which of the following correctly declares&initializes annarray?
+a. int anarray[10] = {0};
+b. int anarray = {};
+c. anarray{10} = {};
+d. array anarray[10];
+@

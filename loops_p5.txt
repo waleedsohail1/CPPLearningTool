@@ -1,0 +1,50 @@
+	
+	       	********** PART-E (TYPES) **********
+
+Nested LOOPS:
+
+A loop can be nested inside of another loop. C++ allows at least 256 levels 
+of nesting.
+
+Syntax using for loop:
+
+	for ( init; condition; increment )
+	{
+ 	  for ( init; condition; increment )
+   	  {
+      		statement(s);
+   	  }
+   		
+	  statement(s); // you can put more statements.
+	}
+
+
+Similarly you can use while & do..while nested loops.
+
+EXAMPLE PROGRAM:
+------------------------------------------
+Example:
+#include <iostream>
+using namespace std;
+int main ()
+{
+	int i, j;
+   
+	for (int i=0;i<2;i++)
+	{
+           for (int j=0;j<2;j++)
+		cout << i << j << ", ";
+
+	   cout << endl;
+	}
+}
+-------------------------------------------
+
+OUTPUT:
+
+00,01
+10,11
+
+
+PRESS ENTER to go to the PART-F........
+

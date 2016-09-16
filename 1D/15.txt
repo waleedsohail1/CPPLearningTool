@@ -1,0 +1,12 @@
+9. How many objects are present after the following code fragment has 
+executed?
+
+double[] ann = new double[ 7 ];
+double[] bob;
+
+bob = ann;
+
+a. 2
+b. 7
+c. 14
+d. 1

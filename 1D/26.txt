@@ -1,0 +1,7 @@
+Q1. What are the side effects of declaring and initializing the
+array simultaneously?
+
+a. No effects
+b. Values are disturbed
+c. Not possible to declare
+d. Cannot be determined

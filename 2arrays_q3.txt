@@ -1,0 +1,7 @@
+
+3. Which of the following is a two-dimensional array?
+
+a. array anarray[20][20];
+b. int anarray[20][20];
+c. int array[20, 20];
+d. double array[20];

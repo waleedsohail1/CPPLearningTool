@@ -1,0 +1,12 @@
+Q6.what is the output of the following codee.
+	
+	int x=12,y=45,z=67;
+	if(x<y)
+	{
+	x=y=z;
+	cout<<x;
+	}
+(a)67
+(b)45
+(c)12
+(d)error

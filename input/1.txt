@@ -1,0 +1,9 @@
+
+		********** PART-C (QUIZ) **********
+
+1.  Variables that are declared, but not initialized, contain
+
+[a] blank spaces
+[b] zeros
+[c] "garbage" values
+[d] nothing - they are empty

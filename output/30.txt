@@ -1,0 +1,9 @@
+Q5. What is the error in following code?
+
+for(int i= 0;i<10 ;i++);
+cout >> i >>endl;
+
+A. Invalid statement terminator
+B. Invalid syntax of cout statement.
+C. Both
+D. None of Above!

@@ -1,0 +1,6 @@
+8.  What's wrong?  while( (i < 10) && (i > 24))
+
+       [a] the logical operator && cannot be used in a test condition
+      [b] the while loop is an exit-condition loop
+      [c] the test condition is always false
+      [d] the test condition is always true

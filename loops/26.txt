@@ -1,0 +1,19 @@
+1. Examine the following code:
+    int count =  1;                                  
+    while (  ___________ )  
+    {
+	cout << count << " ";
+      count = count + 1;
+      if (count == 11)
+	break;
+	
+    }
+
+
+What condition should be used so that the code writes out:
+1 2 3 4 5 6 7 8 9 10
+
+a. count < 11
+b. count < 10
+c. count+1 <= 8
+d. count != 8

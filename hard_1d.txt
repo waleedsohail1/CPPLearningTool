@@ -1,0 +1,160 @@
+
+Q1. Fill in the blanks of the following code fragment so that the 
+elements of the array are printed in reverse order, starting with t
+he last element.
+
+    int[] egArray = { 2, 4, 6, 8, 10, 1, 3, 5, 7, 9 };
+
+    for ( int index= ________ ; _____________ ; ______________ )
+      cout<< egArray[ index ] << "  "  ;
+
+a.    index = 0; index < egArray.length; index--
+b.    index = length; index < 0; index--
+c.    index = length-1; index > 0; index--
+d.    index = egArray.length-1; index >= 0; index--@
+
+Q2. What is the output of the code:
+
+  int[] array = { 1, 4, 3, 6, 8, 2, 5};
+  int what = array[0];
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+    if ( array[ index ] > what )   
+      what = array[ index ];  
+  }
+  cout<<what ; 
+
+What does the fragment write to the monitor?
+
+a.    1
+b.    5
+c.    1 4 3 6 8 2 5
+d.    8@
+
+Q3. What is the output of the following code fragment:
+int[] zip = new int[5];
+
+zip[0] = 7;
+zip[1] = 3;
+zip[2] = 4;
+zip[3] = 1;
+zip[4] = 9;
+cout<< zip[ 2 + 1 ] ;
+
+a. 4 3
+b. 3 7
+c. 4
+d. 1@
+
+Q4. What is the output:
+
+  int[] array = { 1, 4, 3, 6 };
+  int what    = 0;
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+      what = what + array[ index ] ;  
+  }
+  cout<< what ; 
+
+ What does the fragment write to the monitor?
+
+a.    14
+b.    1
+c.    6
+d.    1 4 3 6@
+
+
+Q5. Fill in the blank in the following code fragment so that each 
+element of the array is assigned twice the value of its index.
+
+  int[] array = new int[10];
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+     _______________________ 
+  }
+a.    index = 2*index;
+b.    array[ 2*index ] = 2*index;
+c.    array[ index ] = 2*array[ index ];
+d.    array[ index ] = 2*index;@
+
+Q6. Fill in the blank in the following code fragment so that each 
+element of the array is assigned twice the value of its index.
+
+  int[] array = new int[10];
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+     _______________________ 
+  }
+
+a.    index = 2*index;
+b.    array[ 2*index ] = 2*index;
+c.    array[ index ] = 2*array[ index ];
+d.    array[ index ] = 2*index@
+
+
+Q7. What is the output of the following code fragment:
+int[] ar = {2, 4, 6, 8 };
+
+ar[0] = 23;
+ar[3] = ar[1];
+
+cout<<ar[0] <<" " <<ar[3] ;
+
+a. 23 2
+b. 2 8
+c. 31
+d. 23 4@
+
+Q8. What will be output from the following code .
+ 
+        int[] arr = {1, 2, 3, 4} ;
+        doSoething (arr) ;
+        cout<< arr[1] <<" " ;
+        cout<<arr[3]  ;
+                  . . .
+        public void doSomething (int[] list)
+        {
+            int[] b = list;
+            for( int i = 0 ; i<b. length ; i++)
+                  b[i] = i ;
+        }
+a. 0 0
+b. 2 4 
+c. 1 3
+d. 0 2@
+
+Q9. What is the output:
+
+  int[] array = { 1, 4, 3, 6 };
+  int what    = 0;
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+      what = what + array[ index ] ;  
+  }
+  cout<< x;
+
+ What does the fragment write to the monitor?
+
+a.    14
+b.    1
+c.    Compilation Error
+d.    1 4 3 6@
+
+Q10. While declaring an array, is it necesary to fix the size?
+
+a. Depends on compiler
+b. Yes
+c. No
+d. Does not harm program@
+c. Compilation Error
+d. 4@

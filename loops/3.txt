@@ -1,0 +1,6 @@
+
+3. Which loop is correct?
+
+a) do {//code} while (condition);
+b) do {//code} while (condition)
+c) do {//code} while (condition):

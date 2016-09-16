@@ -1,0 +1,6 @@
+10.  What's wrong?  (x = 4 && y = 5) ? (a = 5) ; (b = 6);
+
+       [a] the question mark should be an equal sign
+      [b] the first semicolon should be a colon
+      [c] there are too many variables in the statement
+      [d] the conditional operator is only used with apstrings

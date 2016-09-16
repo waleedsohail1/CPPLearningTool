@@ -1,0 +1,6 @@
+Q8. Which of the following gives the memory address of the first 
+element in array foo, an array with 100 elements?
+a. foo[0];
+b. foo;
+c. &foo;
+d. foo[1]

@@ -1,0 +1,5 @@
+7. Pick the odd one out
+a) array type
+b) character type
+c) boolean type
+d) integer type!

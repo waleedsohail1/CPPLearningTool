@@ -1,0 +1,112 @@
+1. Examine the following code:
+    int count =  1;                                  
+    while (  ___________ )  
+    {
+	cout << count << " ";
+      count = count + 1;
+      if (count == 11)
+	break;
+	
+    }
+
+
+What condition should be used so that the code writes out:
+1 2 3 4 5 6 7 8 9 10
+
+a. count < 11
+b. count < 10
+c. count+1 <= 8
+d. count != 8@
+
+2. Which of the following situation most likely does NOT 
+call for a counting loop?
+
+a. Adding up all the integers between zero and one hundred.
+
+b. Writing out a table of Fahrenheit and Celcius temperature 
+equivalents.
+
+c. Prompting the user of a program until the user responds 
+with correct information.
+
+d. Making the computer beep ten times.@
+
+3. What is the most common type of bug in software?
+
+a. The "wrong way" problem, where a two way decision is 
+written incorrectly.
+
+b. The "wrong operator" problem, where an arithmetic expression 
+does not mean what the programmer thought it did.
+
+c. The "unititialized variable" problem, where a variable is 
+used in an expression before its contents have been initialized.
+
+d. The "off by one" problem, where a counting loop executes 
+its body one time too many or one time too few.@
+
+4. What are the three types of loops that can be built using 
+the while statement and other statements?
+
+a. Counting loops, sentinel-controlled loops, result-controlled loops
+b. Increasing loops, decreasing loops, result-controlled loops
+c. if loops, while loops, counting loops
+d. top-driven loops, result-controlled loops, bottom feeder loops@
+
+5. Which of the following is most likely to use a counting loop?
+
+a. Checking that each price in a list of items offered for sale is 
+less than $125.
+b. Asking the user at the end of a game if the user wants to play again.
+c. Checking if a particular integer is even or odd.
+d. Trying various letter substitution combinations until a message in 
+a secret code can be read.@
+
+6. Which of the following is most likely to use a sentinel loop?
+
+a. Checking that each price in a list of items offered for sale is 
+less than $125.
+b. Asking the user at the end of a game if the user wants to play again.
+c. Checking if a particular integer is even or odd.
+d. Trying various letter substitution combinations until a message 
+in a secret code can be read.@
+
+
+7. Which of the following is most likely to use a result-controlled loop?
+
+a. Checking that each price in a list of items offered for sale 
+is less than $125.
+b. Asking the user at the end of a game if the user 
+wants to play again.
+c. Checking if a particular integer is even or odd.
+d. Trying various letter substitution combinations until a 
+message in a secret code can be read.@
+
+8. It is (unfortunately) easy to write a result-controlled loop that 
+tries to reach a goal that is too perfect to be achieved. What happens 
+in this situation?
+
+a. The program fails to compile.
+b. The program compiles, but won't run.
+c. The program compiles and runs forever.
+d. The program compiles but computes a completely wrong result.@
+
+9. When the operating system of a computer writes data to the hard disk, 
+the hard disk is often not ready and does not accept the data. 
+The operating system must repeatedly try to write the data until it 
+is accepted. What kind of loop is this?
+
+a. Sentinel-controlled.
+b. Counting loop.
+c. Disk-controlled.
+d. Result-controlled.@
+
+10. A colony of rabbits doubles its population every 28 days. 
+The population starts out at 2 and increases until it reaches 100,000. 
+Say that a section of code simulated this process. 
+Which of the following while statements is most likely to be used?
+
+a. while ( population = 10000 )
+b. while ( population < 100000 )
+c. while ( population != 100000 )
+d. while ( population < 1.0E+6 )@

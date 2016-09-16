@@ -1,0 +1,8 @@
+8. It is (unfortunately) easy to write a result-controlled loop that 
+tries to reach a goal that is too perfect to be achieved. What happens 
+in this situation?
+
+a. The program fails to compile.
+b. The program compiles, but won't run.
+c. The program compiles and runs forever.
+d. The program compiles but computes a completely wrong result.

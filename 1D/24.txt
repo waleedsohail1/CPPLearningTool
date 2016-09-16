@@ -1,0 +1,18 @@
+Q9. What is the output:
+
+  int[] array = { 1, 4, 3, 6 };
+  int what    = 0;
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+      what = what + array[ index ] ;  
+  }
+  cout<< x;
+
+ What does the fragment write to the monitor?
+
+a.    14
+b.    1
+c.    Compilation Error
+d.    1 4 3 6

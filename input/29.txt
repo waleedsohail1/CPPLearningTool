@@ -1,0 +1,10 @@
+4: What would the output be from the following code
+
+int num = 19;
+float val = num/12;
+cout << val << endl;
+
+a)1
+b)1.5833
+c)19/12
+d)2!

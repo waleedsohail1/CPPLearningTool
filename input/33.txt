@@ -1,0 +1,15 @@
+8. What will be the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        int a = 8;
+        cout << "ANDing integer 'a' with 'true' :" << a && true;
+        return 0;
+    }
+
+a) ANDing integer ‘a’ with ‘true’ :8
+b) ANDing integer ‘a’ with ‘true’ :0
+c) ANDing integer ‘a’ with ‘true’ :1
+d) None of the mentioned!

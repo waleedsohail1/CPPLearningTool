@@ -1,0 +1,12 @@
+Q7. What is the output of the following code fragment:
+int[] ar = {2, 4, 6, 8 };
+
+ar[0] = 23;
+ar[3] = ar[1];
+
+cout<<ar[0] <<" " <<ar[3] ;
+
+a. 23 2
+b. 2 8
+c. 31
+d. 23 4

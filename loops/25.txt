@@ -1,0 +1,11 @@
+
+10. Examine the following code:
+    int count =  1;                                  
+    while(true)
+	cout << true;
+
+What does this code print on the monitor?
+a. 1 2 3 4
+b. Error
+c. 2 3 4
+d. 1 1 1 1 1 1 1 1 1 1 1 . . . .

@@ -1,0 +1,7 @@
+
+7. The value 132.54 can represented using which data type?
+
+a) double
+b) void
+c) int
+d) bool!

@@ -1,0 +1,17 @@
+Q9. The following program segment is intended to find the index 
+of the first negative integer in arr [0] ... arr [ N-1], 
+where arr is an array of N integers.
+
+        int i = 0;
+	while (arr [i] >= 0)
+	{
+	    i++;
+	}
+	location = i ;
+
+	This segment will work as intended
+
+a. Always
+b. Never
+c. Whenever arr contains at least one negative integer
+d. Whenever arr contains at least one nonnegative integer

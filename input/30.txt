@@ -1,0 +1,6 @@
+5. It is guaranteed that a ____ has atleast 8bits and a ____ has atleast
+16 bits.
+a) int, float
+b) char, int
+c) bool, char
+d) char, short!

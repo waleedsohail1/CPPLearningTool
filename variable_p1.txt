@@ -1,0 +1,35 @@
+		********** PART-A (DESCRIPTION) **********
+
+
+Description:
+A statement such as x = 5; seems obvious enough. As you would guess, we are 
+assigning the value of 5 to x. But what exactly is x? x is a variable. A 
+variable in C++ is a name for a piece of memory that can be used to store 
+information. When a variable is defined, a piece of memory is set aside for 
+that variable.
+
+
+Fundamental Data Types:
+
+C++ comes with built-in support for certain data type, these are called 
+fundamental data types (in the C++ specification) or built-in types. Below
+is the table of these types.
+
+=================================================
+Category 	| Types   | Meaning 		
+=================================================
+Boolean 	| bool    | true or false	
+-------------------------------------------------
+Character	| char    | an ASCII character  
+-------------------------------------------------
+Floating Point	| float   | a decimal number	
+-------------------------------------------------
+Integer		| short   | a whole number
+-------------------------------------------------
+Void		| no type | void	
+-------------------------------------------------
+
+
+
+PRESS ENTER to go to the PART-B........
+

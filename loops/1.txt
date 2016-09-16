@@ -1,0 +1,10 @@
+
+		********** PART-G (EVALUATION QUIZ) **********
+
+
+1. Which one is not a loop?
+   
+a) for   
+b) have
+c) do
+d) while

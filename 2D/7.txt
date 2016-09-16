@@ -1,0 +1,12 @@
+2. Examine the following:
+
+double[][] values =
+  { {1.2, 9.0, 3.2},
+    {9.2, 0.5, 1.5, -1.2},
+    {7.3, 7.9, 4.8} } ;
+
+What is in values[3][0] ?
+a.    7.3
+b.    7.9
+c.    9.2
+d.    There is no such array element.

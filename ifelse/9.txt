@@ -1,0 +1,5 @@
+Q4._________ expression can be used in if statement.
+(a) Relational
+(b) Arithmetic
+(c) Logical
+(d) All of the above!

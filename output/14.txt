@@ -1,0 +1,9 @@
+Q9. What is the output of the following code?
+
+int var=500.856;
+cout << var;
+
+[a] 500.856
+[b] 50.
+[c] 500
+[d] No input.!

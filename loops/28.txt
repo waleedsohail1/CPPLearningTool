@@ -1,0 +1,13 @@
+3. What is the most common type of bug in software?
+
+a. The "wrong way" problem, where a two way decision is 
+written incorrectly.
+
+b. The "wrong operator" problem, where an arithmetic expression 
+does not mean what the programmer thought it did.
+
+c. The "unititialized variable" problem, where a variable is 
+used in an expression before its contents have been initialized.
+
+d. The "off by one" problem, where a counting loop executes 
+its body one time too many or one time too few.

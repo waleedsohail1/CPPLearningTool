@@ -1,0 +1,5 @@
+5. Identify the user-defined types from the following?
+a) enumeration
+b) classes
+c) both a and b
+d) int!

@@ -1,0 +1,10 @@
+Q1. What is the output of the following code?
+
+const int num;
+num=50;
+cout <<num;
+
+[A] 50
+[B] Garbage
+[C] 0
+[D] Compile Error!

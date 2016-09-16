@@ -1,0 +1,22 @@
+Q9) Examine and guess the output?
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int array[10][10];
+for(int i=0;i<10;i++)
+{
+	for(int j=0;j<10;j++)
+	{
+	
+	cout<<array[i][j];
+}
+
+}
+}
+
+A.	Garbage
+B.	Nothing
+C.	12345678910
+D.	Program will crash

@@ -1,0 +1,5 @@
+Q2. An array is not:
+a. A consecutive group of memory locations.
+b. Subscripted by integers.
+c. Declared using braces, [].
+d. Made up of different data types.

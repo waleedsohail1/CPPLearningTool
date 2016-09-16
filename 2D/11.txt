@@ -1,0 +1,6 @@
+Q1) Is this statement true ?
+Char array[][10]; ?
+a) True
+b) False
+c) Both
+d) none

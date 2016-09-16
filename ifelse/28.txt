@@ -1,0 +1,12 @@
+Q3. Fill the blank.
+	int year;
+	cout<<"Enter the year";
+	cin>>year;
+	if(year%________==0)
+	cout<<"leap year";
+	else
+	cout<<"not a leap year”;
+(a)2
+(b)5
+(c)6
+(d)4

@@ -1,0 +1,33 @@
+		
+		***************************************
+		********** PRACTICE QUESTIONS *********
+		***************************************
+
+	 *. These are the questions for your practice of each section.
+	     *. Choose any question & rock the world :)
+
+--------------------------------------------------------------------------------
+
+1. Write a program to display "MY NAME IS" at first line,
+"RAO" at the second line and "RAO MUJADAD" at third line.
+
+2. Write a program to declare two variables of name x and y, take
+input in both, and then display the values of both with variable name.
+
+3. Write a program to take input 2 integers from user and an operator 
+(+,-,/,*) then perform the task according to the operator. 
+For example, + = sum, / = division etc.
+
+4. Write a program to display first 50 odd integers. (Use loops only!)
+
+5. Create an integer array of size 20. Store values from 1-20 in the
+array and display it. (Hint : Use loops carefully)
+
+6. Create a two dimensional integer array of 5 rows & 5 colums, store any
+values, then display it in the form of table. (Hint : Use setw() function & 
+of course loops.)
+
+7. GO BACK TO MAIN MENU
+--------------------------------------------------------------------------------
+
+Choose any option? 

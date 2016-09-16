@@ -1,0 +1,9 @@
+
+3. The following statement is:
+
+   If(temp=32)
+	cout<<"Where a coat today!"<<endl;
+
+
+a) is correct
+b) is incorrect

@@ -1,0 +1,146 @@
+
+1. Which
+of the following is NOT correct 1D array declaration?
+
+(A)int a[ ] = {1 , 2 , 3} ;
+(B)int a[5] = {1 , 2 , 3} ;
+(C)int a[5] = {0} ;
+(D)int a[3] = {1 , 2 , 3,4,5};@
+
+2. Which of the following is NOT correct 2D array declaration? 
+
+(A)intm[ ][3]={1 , 2 , 3, 4}
+(B)intm[3][ ]={1 , 2 , 3, 4} ;
+(C)intm[2][3];
+(D)intm[R][C];(R & C are constants)@
+
+3.     int[][] items =
+      { {0, 1, 3, 4},
+        {4, 3, 99, 0, 7 },
+        {3, 2} } ;
+
+Which of the following fragments replaces row 0 of items with an 
+entierly new row?
+
+(a) items[0][0] = 8; 
+    items[0][1] = 12; 
+    items[0][2] = 6; 
+
+(b)   items[0] = { 8, 12, 6 };
+
+(c)   items[0] = new { 8, 12, 6 };
+
+(d)  int[] temp = { 8, 12, 6 };
+    items[0] = temp;   @
+
+
+4. In C++, if you pass an array as an argument to a function, 
+what actually gets passed?
+
+(A)	Value of elements in array
+(B) 	First element of the array
+(C) 	Base address of the array
+(D) 	Address of the last element of array@
+
+
+5. int[][] array = {
+  {1, 2, 3},
+  {4, 5, 6},
+  {7, 8, 9},
+  {10, 11, 12}
+};
+
+Output of array[4] ?
+
+(A) ArrayIndexOutOfBoundsException
+(B) {10,11,12};
+(C) Error
+(D) None @
+
+6. What is the output of the following code??
+
+#include<iostream>
+using namespace std;
+int main()
+
+{
+
+int fun[2][3]={{1,2,3},{4,5,6}};
+int i=0 , j=0;
+fun[i][j]=fun[j][i];
+
+ cout<<fun[i][j]<<fun[j+1][i+1];
+
+}
+
+(A) 15
+(B) 10
+(C) 20
+(D) 25 @
+
+
+7.Assume that the size of an integer is 4 bytes.
+What will be the output of the following code:
+      
+#include<iostream>
+using namespace std;
+int main()
+
+{
+
+ int a[2][2]={{2,3},{1,6}};
+cout<<&a[0][1] - &a[0][0];
+
+}
+
+(A) 5
+(B) garbage 
+(C) 1
+(D) none @
+
+8.What is the output of the following C++ code?
+
+#include<iostream>
+using namespace std;
+int main()
+
+{
+
+int ary[2][3]; 
+ary[ ][ ] = {{1, 2, 3}, {4, 5, 6}}; 
+cout<< ary[1] + [0]<<endl; 
+
+}
+
+(A) Compile time error
+(B)    4
+(C)    1
+(D)    2 @
+
+9.In C++, if you pass an array as an argument to a function, 
+what actually gets passed? 
+
+(A)    Value of elements in array
+(B)    First element of the array
+(C)    Base address of the array
+(D)    Address of the last element of array @
+
+
+10. Predict the output : 
+#include<iostream>
+using namespace std;
+int main()
+
+{
+int a[5] = { 5, 1, 15, 20, 25 }; 
+int i,j,m; 
+i = ++a[1]; 
+j = a[1]++; 
+m = a[i++];
+ cout<<i<<j<<m; 
+}
+
+(A)    2, 1, 15
+(B)    1, 2, 5
+(C)    3, 2, 15
+(D)    2, 3, 20 @

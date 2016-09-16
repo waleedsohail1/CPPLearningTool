@@ -1,0 +1,21 @@
+
+5. Choose the correct ouput of this program:
+----------------------------------------------------------------------------
+#include <iostream>
+int main()
+{
+	int Answer;
+
+	IF(Answer<16)
+	cout<<"You are still too young to get your driver's license."<<endl;
+	ELSE
+	cout<<"You are eligible to begin your driver training."<<endl;
+
+	return 0;
+}
+----------------------------------------------------------------------------
+
+a) Cannot be determined
+b) You are still too young to get your driver's license.
+c) Compilation Error
+d) You are eligible to begin your driver training.

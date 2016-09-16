@@ -1,0 +1,5 @@
+1. Which is used to get the input during runtime?
+
+a) cout
+b) cin
+c) conio!

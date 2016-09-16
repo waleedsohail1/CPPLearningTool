@@ -1,0 +1,10 @@
+
+		********** PART-D (EVALUATION QUIZ) **********
+
+
+1. Which of the following correctly declares an array?
+
+a. int anarray[10];
+b. int anarray;
+c. anarray{10};
+d. array anarray[10];

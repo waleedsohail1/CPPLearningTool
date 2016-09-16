@@ -1,0 +1,9 @@
+Q4. What is the output of the following code?
+
+int var=262500;
+cout << var;
+
+[A] 262500.
+[B] 2625
+[C] garbage value
+[D] 0!

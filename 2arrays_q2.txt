@@ -1,0 +1,8 @@
+
+2. Which of the following statements constructs an array stuff with 5 
+rows of 7 columns of type long?
+
+a. stuff[5][7] ;
+b. stuff long[5][7] ;
+c. stuff = long[5][7] ;
+d. long stuff[7][5] ;

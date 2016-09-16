@@ -1,0 +1,5 @@
+Q1.Whart is used for displaying strings on screen?
+[a] cin
+[b] cout 
+[c] cin.get
+[d] all of above!

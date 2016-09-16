@@ -1,0 +1,6 @@
+Q7. What is the length of the following array: 
+byte[] data = { 12, 34, 9, 0, -62, 88 };
+a.   1
+b.   5
+c.   6
+d.   12

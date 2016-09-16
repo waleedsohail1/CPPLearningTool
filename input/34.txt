@@ -1,0 +1,5 @@
+9.Which is used to indicate single precision value?
+a) F or f
+b) L or l
+c) either a or b
+d) neither a or b!

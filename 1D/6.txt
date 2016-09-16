@@ -1,0 +1,5 @@
+1. Which of the following declares an array of int named img?  
+a. int img;
+b. int[] img;
+c. new int img[];
+d. int img = int[];

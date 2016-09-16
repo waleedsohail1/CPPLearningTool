@@ -1,0 +1,21 @@
+
+4. What would be output?
+
+----------------------------
+#include<iostream>
+using namespace std;
+int main()
+{
+	int x=5,y=10;
+
+	if(x>y)
+		cout << "X";
+	else
+		cout << "Y";		
+}
+----------------------------
+
+a) 5
+b) Y
+c) 10
+d) X

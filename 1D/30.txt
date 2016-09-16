@@ -1,0 +1,6 @@
+Q5. Unless otherwise specified, entire arrays are passed __________ and 
+individual array elements are passed __________.
+a. By value, by reference.
+b. By reference, by value.
+c. By value, by value.
+d. By reference, by reference.

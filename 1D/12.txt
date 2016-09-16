@@ -1,0 +1,5 @@
+7.What is used to input char arr ?
+a. cin.getline
+b.cout
+c.c.ignore
+d.none

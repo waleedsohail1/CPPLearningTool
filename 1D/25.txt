@@ -1,0 +1,8 @@
+Q10. While declaring an array, is it necesary to fix the size?
+
+a. Depends on compiler
+b. Yes
+c. No
+d. Does not harm program@
+c. Compilation Error
+d. 4

@@ -1,0 +1,7 @@
+
+4. Which operator is the new-line operator?
+
+a) \n
+b) \t
+c) endl
+d) Both a&c

@@ -1,0 +1,15 @@
+Q8) Examine and guess the output?
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int array[10][10];
+cout<<array;
+
+}
+
+A.	12345678910
+B.	10
+C.	Base Address
+D.	Garbage

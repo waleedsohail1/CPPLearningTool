@@ -1,0 +1,7 @@
+
+2. What is the index number of the last element of an array with 29 elements?
+
+a. 29
+b. 28
+c. 0
+d. Programmer-defined

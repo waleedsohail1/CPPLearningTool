@@ -1,0 +1,47 @@
+	
+	       	********** PART-F (Control Statements) **********
+
+Loop Control Statements:
+
+Loop control statements change execution from its normal sequence. When 
+execution leaves a scope, all automatic objects that were created in 
+that scope are destroyed.
+
+C++ supports the following control statements:
+
+======================================================================
+Control Statement  | Description		
+======================================================================
+break statment	   | Terminates the loop statement and transfers 
+	     	   | execution to the statement immediately
+ 		   | following the loop or switch.	
+----------------------------------------------------------------------
+continue statement | Causes the loop to skip the remainder of its   
+		   | body and immediately retest its condition prior to 
+		   | reiterating.
+======================================================================
+
+However, we are going to learn and focus on the break statement here. See
+the below example:
+
+Example Program:
+--------------------------------
+int main()
+{
+	for (int i=0;i<10;i++)
+	{
+	  if(i==5)
+	    break;
+	  
+          cout << i << ", ";	
+	}
+}
+--------------------------------
+
+OUTPUT:
+0, 1, 2, 3, 4, 
+
+The loop will be terminated when "i" will reach 5 (because of break).
+
+PRESS ENTER to go to the PART-G........
+

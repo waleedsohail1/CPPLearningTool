@@ -1,0 +1,13 @@
+Q2.What is the output of the code?
+	int q,w=35,x=30,y=36,z=24;
+	if(w>x || w<y && y!=z)
+		q=w;
+	else if(x>d)
+		q=x;
+	else
+		q=y;
+	cout<<q; 
+(a)24
+(b)36
+(c)35
+(d)30

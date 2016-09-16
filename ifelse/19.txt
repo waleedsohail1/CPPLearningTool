@@ -1,0 +1,10 @@
+Q4.What is the output?
+	int x=1,y=9;
+	if((x>=3) || (y<11 && x+y<15))
+		cout<<"Hello";
+	else
+		cout<<"World";
+(a)World
+(b)Hello
+(c)Syntax error
+(d)none

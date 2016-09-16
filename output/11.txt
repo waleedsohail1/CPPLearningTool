@@ -1,0 +1,9 @@
+Q6. What is the output of the following code?
+
+char var=500;
+cout << var;
+
+[a] 5.
+[b] 50.
+[c] 500
+[d] No input.!

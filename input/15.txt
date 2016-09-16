@@ -1,0 +1,4 @@
+10. Which is the correct way to declare multiple integers?
+A. int sum; num; age; 
+B. int sum, int num, int age;
+C. int sum, num, age;!

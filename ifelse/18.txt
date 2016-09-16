@@ -1,0 +1,11 @@
+Q3.What is the output of the code?
+	int a=10,b=9;
+	const int c=4;
+	if(a>10)
+		cout<<a+b+c;
+	else if(a>b)
+		cout<<a+b-c;
+(a) 23
+(b) 19
+(c) 24
+(d) 15

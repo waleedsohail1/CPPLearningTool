@@ -1,0 +1,39 @@
+		********** PART-A (DESCRIPTION) **********
+
+
+Description:
+
+C++ uses a convenient abstraction called streams to perform input and output 
+operations in sequential media such as the screen, the keyboard or a file. 
+The "iostream" library is included for output operations.For formatted output
+operations, cout is used together with the insertion operator, which is written
+as << (i.e., two "less than" signs).
+
+
+In Action:
+
+By default, the standard output of a program points at the screen. So with the
+cout operator and the "insertion" operator (<<) you can print a message onto 
+the screen. Let’s take a look at an example:
+
+
+Program:
+
+	#include<iostream>
+	using namespace std;
+
+	int main()
+	{
+		cout << "Hello World!"; //This is the output line.
+		return 0;
+	}
+
+
+
+This program will display "Hello World!" (without double quotes) on the display
+screen.
+
+
+
+PRESS ENTER to go to the PART-B........
+

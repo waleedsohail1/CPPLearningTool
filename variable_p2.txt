@@ -1,0 +1,37 @@
+		********** PART-B (WORKING) **********
+
+
+In order to define a variable, we generally use a declaration statement. 
+Here’s an example of defining variable x as an integer variable (one that 
+can hold integer values):
+
+int x;
+
+When this statement is executed by the CPU, a piece of memory from RAM will 
+be set aside (called instantiation).
+
+One of the most common operations done with variables is assignment. To do 
+this, we use the assignment operator, more commonly known as the = symbol. 
+For example:
+
+x = 5;
+
+When the CPU executes this statement, it translates this to "put the value of 
+5 in memory location of variable x".
+
+Later in our program, we could print that value to the screen using cout
+statement. For example:
+
+cout << x ; // prints the value of x to the console
+
+UNINITIALIZED VARIABLES:
+
+Unlike some programming languages, C/C++ does not initialize variables to a 
+given value (such as zero) automatically (for performance reasons). Thus 
+when a variable is assigned to a memory location by the compiler, the 
+default value of that variable is whatever garbage happens to already be 
+in that memory location!
+
+
+PRESS ENTER to go to the PART-C........
+

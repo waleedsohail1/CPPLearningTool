@@ -1,0 +1,6 @@
+2. Which of the following is NOT correct 2D array declaration? 
+
+(A)intm[ ][3]={1 , 2 , 3, 4}
+(B)intm[3][ ]={1 , 2 , 3, 4} ;
+(C)intm[2][3];
+(D)intm[R][C];(R & C are constants)

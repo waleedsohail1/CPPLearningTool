@@ -1,0 +1,123 @@
+
+Q1) Is this statement true ?
+Char array[][10]; ?
+a) True
+b) False
+c) Both
+d) none  @
+
+Q2) Which of the following accesses the seventh element stored in array?
+a) array[6];
+b) array[7];
+c) array(7);
+d) array;@
+
+
+Q3) What is the index number of the last element of an array with 29 elements?
+A. 29
+B. 28
+C. 0
+D. Programmer-defined@
+
+
+Q4) Which of the following is a two-dimensional array?
+
+A. array anarray[20][20];
+B. int anarray[20][20];
+C. int array[20, 20];
+D. char array[20];@
+
+
+Q5) Examine and guess the output?
+
+double[][] values =
+  { {1.2, 9.0, 3.2},
+    {9.2, 0.5, 1.5, -1.2},
+    {7.3, 7.9, 4.8} } ;
+
+What is in the values ? 
+A. 7.3
+B. 7.9
+C. 9.2
+D. Cannot be determined @
+
+
+Q6) Examine and guess the output?
+
+double[][] things =
+  { {1.2, 9.0},
+    {9.2, 0.5, 0.0},
+    {7.3, 7.9, 1.2, 3.9} } ;
+
+What is the values of things[9][10]?
+
+A. 2
+B. Garbage
+C. 4
+D. 9 @
+
+Q7) Output of the following code is ?
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	double array[20][10]={"445" };
+	cout<<array[10][10];
+}
+
+A. Hey i
+B. Love you
+C. Nothing
+D. Garbage@
+
+Q8) Examine and guess the output?
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int array[10][10];
+cout<<array;
+
+}
+
+A.	12345678910
+B.	10
+C.	Base Address
+D.	Garbage@
+
+Q9) Examine and guess the output?
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int array[10][10];
+for(int i=0;i<10;i++)
+{
+	for(int j=0;j<10;j++)
+	{
+	
+	cout<<array[i][j];
+}
+
+}
+}
+
+A.	Garbage
+B.	Nothing
+C.	12345678910
+D.	Program will crash@
+
+Q10) int aray[10][10] ?
+
+What function will we use to have proper input?
+A.	Cin
+B.	Cin.get
+C.	Cin.getline
+D.	Both B and C.@
+
+
+
+

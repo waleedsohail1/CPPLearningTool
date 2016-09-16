@@ -1,0 +1,92 @@
+	    $=============$ Quiz #1(Easy) $=============$
+
+
+
+Q1. ________ is the simplest form of decision making.
+(a) Nested if
+(b) Switch
+(c) if
+(d) if-else!
+
+
+Q2. _______ is used for two-way decision making.
+(a) if
+(b) if-else
+(c) if-else-if
+(d) nested if!
+
+Q3. What will be the output of following code?
+    int x=8;
+    if(x%2==0);
+	cout<<"even";
+    else
+	cout<<"odd";
+
+(a) odd
+(b) odd
+(c) 8
+(d) error!
+
+Q4._________ expression can be used in if statement.
+(a) Relational
+(b) Arithmetic
+(c) Logical
+(d) All of the above!
+
+Q5.In an if-else-if statement if all the conditions are false ,then the 
+last statement will be _____.
+(a) ignored
+(b) executed
+(c) removed
+(d) over writed!
+
+Q6. ______ is a keyword for C language.
+(a) Nested if
+(b) Switch
+(c) if
+(d) if-else!
+
+Q7. What will be the output of following code?
+    int x=4,y=6;
+    if(x/2==0)
+	cout<<y;
+    else
+	cout<<x;
+
+(a) x
+(b) y
+(c) 4
+(d) 6!
+
+Q8.What is the output of the program.
+    	int x=20;
+	if(x==1)
+		cout<<"x is 1 ";
+	else if(x==2)
+		cout<<"x is 2 ";
+	else if(x==3)
+		cout<<"x is 3 ";
+	else 
+		cout<<x;
+
+(a) x is 1
+(b) x is 2
+(c) x is 3
+(d) 100!
+
+Q9.In if-else-if statement only_______ blocks of statement can be executed.
+(a)one
+(b)two
+(c)three
+(d)multiple!
+
+Q10.What is the output of the following code.
+     int score=62;
+     if(score>=60)
+		cout<<"D";
+      else;
+		cout<<" F ";
+(a) D
+(b) F
+(c) DF
+(d) error!

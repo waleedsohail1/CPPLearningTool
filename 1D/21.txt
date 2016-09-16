@@ -1,0 +1,16 @@
+
+Q6. Fill in the blank in the following code fragment so that each 
+element of the array is assigned twice the value of its index.
+
+  int[] array = new int[10];
+
+  // scan the array
+  for ( int index=0; index < array.length; index++ )
+  { 
+     _______________________ 
+  }
+
+a.    index = 2*index;
+b.    array[ 2*index ] = 2*index;
+c.    array[ index ] = 2*array[ index ];
+d.    array[ index ] = 2*index

@@ -1,0 +1,10 @@
+Q8. What will be the output of following code?
+
+for(int i=0;i<10;i++)
+	if(i%2)
+		cout << i << ',';
+
+A. 2,4,6,8,10
+B. 2,4,6,8
+C. 0,2,4,6,8,10
+D. 2,4,6,8!

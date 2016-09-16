@@ -1,0 +1,30 @@
+	
+	              **********************************
+		      ********* LEARNING AREA **********
+		      **********************************
+
+
+	     /*	Each section comprises of description,working and
+		evaluation quiz parts. Learn from the description &
+		working parts then evaluate yourself through short
+		evaluation quiz. */
+
+
+
+			1. Basic Output
+
+			2. Variable & Input Handling
+
+			3. The if...else Statements
+
+			4. Loops
+
+			5. Single-Dimensional Arrays
+
+			6. Two-Dimensional Arrays
+
+			7. Go to Main Menu
+
+
+		Choose your desired section?
+		

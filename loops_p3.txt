@@ -1,0 +1,54 @@
+	
+	       	********** PART-C (TYPES) **********
+
+
+while LOOP:
+
+A while loop statement in C programming language repeatedly executes a target
+statement as long as a given condition is true. 
+
+Syntax:
+	while(condition)
+	{
+   		Statement(s); 
+   		increment/decrement;
+	}
+
+Execution Process:
+
+Statement(s) may be a single statement or a block of statements. 
+The condition may be any expression, and true is any nonzero value. 
+The loop iterates while the condition is true.
+The increment/decrement is essential otherwise the loop will become
+infinite.
+
+
+EXAMPLE PROGRAM:
+------------------------------------------
+Example:
+#include <iostream>
+using namespace std;
+int main ()
+{
+   /* local variable definition */
+   int a = 10;
+
+   /* while loop execution */
+   while( a < 20 )
+   {
+      cout << a << ", ";
+      a++;
+   }
+ 
+   return 0;
+}
+-------------------------------------------
+
+OUTPUT:
+
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+
+
+
+PRESS ENTER to go to the PART-D........
+

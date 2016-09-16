@@ -1,0 +1,17 @@
+1. What is the output of this program?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        cout << "First input: ";
+        cin.get();
+        cout << "Clearing cin.\n";
+        cin.clear();
+        cout << "All done.\n";
+    }
+
+a) First input
+b) Clearing cin
+c) Error
+d) None of the mentioned!

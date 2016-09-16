@@ -1,0 +1,8 @@
+Q6. What is the output of the following code?
+for(int i= 0;i >10 ;i++)
+cout<< i <<endl;
+
+A. No output
+B. 10
+C. Print 1-10
+D. Print 0-9!

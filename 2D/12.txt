@@ -1,0 +1,5 @@
+Q2) Which of the following accesses the seventh element stored in array?
+a) array[6];
+b) array[7];
+c) array(7);
+d) array;

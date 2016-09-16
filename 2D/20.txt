@@ -1,0 +1,8 @@
+
+Q10) int aray[10][10] ?
+
+What function will we use to have proper input?
+A.	Cin
+B.	Cin.get
+C.	Cin.getline
+D.	Both B and C.

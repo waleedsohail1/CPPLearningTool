@@ -1,0 +1,10 @@
+7. What is the value of the following 8-bit integer after all statements 
+are executed?
+
+int x = 1;
+x = x << 7;
+x = x >> 7;
+a) 1
+b) -1
+c) 127
+d) Implementation defined!

@@ -1,0 +1,6 @@
+
+4.  All variables must be declared before they can be used.
+
+[a] True
+[b] False
+[c] Variables do not require initialization

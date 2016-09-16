@@ -1,0 +1,10 @@
+Q5. What is the error in the following code?
+
+int x=30
+cout << x
+
+[a] compilation error.
+[b] Runtime error.
+[c] syntax error
+[d] No error.!
+

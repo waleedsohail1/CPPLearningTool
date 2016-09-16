@@ -1,0 +1,36 @@
+
+		********** PART-B (INIT. + ELEMENTS ACCESS) **********
+
+
+INITIALIZING 2-D ARRAYS:
+
+Multidimensioned arrays may be initialized by specifying bracketed values 
+for each row. Following is an array with 3 rows and each row have 4 columns.
+
+--------------------------------------------------------------------------
+int a[3][4] = { {0, 1, 2, 3} ,  /*  initializers for row indexed by 0 */
+ 		{4, 5, 6, 7} ,  /*  initializers for row indexed by 1 */
+	        {8, 9, 2, 1}    /*  initializers for row indexed by 2 */
+              };
+---------------------------------------------------------------------------
+
+The nested braces, which indicate the intended row, are optional. The 
+following initialization is equivalent to previous example:
+
+int a[3][4] = {0,1,2,3,4,5,6,7,8,9,10,11};
+
+ACCESSING 2-D ARRAY ELEMENTS:
+
+An element in 2-dimensional array is accessed by using the subscripts, i.e.,
+row index and column index of the array. For example:
+
+-------------------
+int val = a[2][3];
+-------------------
+
+The above statement will take 4th element from the 3rd row of the array. 
+You can verify it in the above digram.
+
+
+PRESS ENTER to go to the PART-C........
+

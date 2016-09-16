@@ -1,0 +1,10 @@
+2: What would the output be from the following code.
+float valOne = 3.756;
+int valTwo
+valTwo = valOne;
+cout << valTwo << endl
+
+a)3.756
+b)4
+c)3
+d)error!

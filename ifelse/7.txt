@@ -1,0 +1,5 @@
+Q2. _______ is used for two-way decision making.
+(a) if
+(b) if-else
+(c) if-else-if
+(d) nested if!

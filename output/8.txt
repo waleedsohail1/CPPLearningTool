@@ -1,0 +1,6 @@
+Q3. What is the operator used for cout?
+
+[a] << 
+[b] >>
+[c] None of above
+[d] All of above!

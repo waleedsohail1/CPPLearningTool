@@ -1,0 +1,10 @@
+Q1.What is the output of the following code.
+	int a=10,b=3,c=-1;
+	if((a+b)<15 && (c<b-3))
+		cout<<c;
+	else
+		cout<<a;
+(a)a
+(b)b
+(c)c
+(d)none

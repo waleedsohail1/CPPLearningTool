@@ -1,0 +1,12 @@
+Q3. What is the output of following program?
+
+int a = 10;
+int b = 20;
+int x;
+x = a;
+cout >> x;
+
+A. It will print 10.
+B. It will print 20.
+C. It will print x.
+D. Compilation Error.!

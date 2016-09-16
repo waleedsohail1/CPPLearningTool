@@ -1,0 +1,8 @@
+6. Which of the following statements are true?
+   
+ int f(float)
+
+a) f is a function taking an argument of type int and retruning a floating point number
+b) f is a function taking an argument of type float and returning a integer.
+c) f is a function of type float
+d) none of the mentioned!

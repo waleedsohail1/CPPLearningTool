@@ -1,0 +1,5 @@
+Q9.In if-else-if statement only_______ blocks of statement can be executed.
+(a)one
+(b)two
+(c)three
+(d)multiple!

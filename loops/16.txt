@@ -1,0 +1,9 @@
+Q1 : What is wrong with the following while loop?
+while ( sum <= 1000 )
+sum = sum - 30;
+
+a. The parentheses should be braces.
+b. Braces are required around sum = sum – 30;.
+c. There should be a semicolon after while ( sum <= 1000 ).
+d. sum = sum – 30 should be sum = sum + 30 or else 
+the loop may never end.
